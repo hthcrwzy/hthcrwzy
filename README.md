@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- #### My Github stats -->
-![hthcrwzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hthcrwzy&show_icons=true&theme=gruvbox)
+[![hthcrwzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hthcrwzy&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!-- #### Top programming languages -->
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hthcrwzy&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
