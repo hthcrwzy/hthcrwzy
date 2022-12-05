@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm hthcrwzy
+- My name is hthcrwzy.
+- 🌱 I'm currently learning Flutter(and Dart) and Swift.
+- ⚡ Fun fact: My name was created at random.
 
 <!--
 **hthcrwzy/hthcrwzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### My Github stats
+![hthcrwzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hthcrwzy&show_icons=true&theme=gruvbox)
+
+#### Top programming languages
+[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hthcrwzy&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
