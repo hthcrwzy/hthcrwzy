@@ -1,6 +1,5 @@
 ### Hello! 👋 
 - My name is hthcrwzy.
-- 🌱 I'm currently learning Flutter(and Dart) and Swift.
 - ⚡ Fun fact: My name was created at random.
 
 <!--
