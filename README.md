@@ -1,6 +1,8 @@
-### Hello! 👋 
-- My name is hthcrwzy.
-- ⚡ Fun fact: My name was created at random.
+### Hello! 👋🏼
+- My name is hthcrwzy (aka Yamizo).
+- ⚡ Fun fact: My username was created at random.
+- 🌱 I like modern programming languages: Rust and Swift.
+- 🧐 I'm learning iOS app programming.
 
 <!--
 **hthcrwzy/hthcrwzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
