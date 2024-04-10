@@ -1,5 +1,6 @@
 ### Hello! 👋🏼
 - My name is hthcrwzy (aka Yamizo).
+  IPA of hthcrwzy: [hæˈθkɹo̞ˌʊziː]
 - ⚡ Fun fact: My username was created at random.
 - 🌱 I like modern programming languages: Rust and Swift.
 - 🧐 I'm learning iOS app programming.
