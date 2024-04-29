@@ -35,12 +35,14 @@ I like mystery novels. I mainly read Japanese mystery novels.
 
 ## Skills
 
+<div align="center">
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Swift/Swift.png?raw=true" alt="Swift" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Rust/Rust.png?raw=true" alt="Rust" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C++/C++.png?raw=true" alt="C++" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png?raw=true" alt="GitHub" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Vistual Studio Code" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Ruby/Ruby.png?raw=true" alt="Ruby" width="100" />
+</div>
 
 > The cute logos are [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) by [Sawaratsuki](https://github.com/SAWARATSUKI).
 
@@ -90,12 +92,14 @@ hthcrwzyです！　学生です。
 
 ## スキル
 
+<div align="center">
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Swift/Swift.png?raw=true" alt="Swift" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Rust/Rust.png?raw=true" alt="Rust" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C++/C++.png?raw=true" alt="C++" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png?raw=true" alt="GitHub" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Vistual Studio Code" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Ruby/Ruby.png?raw=true" alt="Ruby" width="100" />
+</div>
 
 > 可愛いロゴたちは[Sawaratsuki](https://github.com/SAWARATSUKI)さんの[ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos)です
 
@@ -114,9 +118,7 @@ hthcrwzyです！　学生です。
 # Saluton!
 
 Mi estas hthcrwzy, kiu estas japana studento!  
-
-> [!NOTE]
-> Mi estas komencanto en Esperanto!!!
+Mi estas komencanto en Esperanto!!!
 
 ## Mia ŝatataj verkistinoj de romano de mistero
 
@@ -151,12 +153,14 @@ Mi ŝatas la romano de mistero. Mi precipe legas la japanan romanon de mistero.
 
 ## Lertecoj
 
+<div align="center">
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Swift/Swift.png?raw=true" alt="Swift" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Rust/Rust.png?raw=true" alt="Rust" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C++/C++.png?raw=true" alt="C++" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png?raw=true" alt="GitHub" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Vistual Studio Code" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Ruby/Ruby.png?raw=true" alt="Ruby" width="100" />
+</div>
 
 > La ĉarmaj markemblemoj estas [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) de [Sawaratsuki](https://github.com/SAWARATSUKI).
 
@@ -171,9 +175,11 @@ Mi ŝatas la romano de mistero. Mi precipe legas la japanan romanon de mistero.
 
 ## My GitHub Status
 
+<div align="center">
 <a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hthcrwzy&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hthcrwzy&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hthcrwzy&theme=onedark&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hthcrwzy&theme=onedark&layout=compact" />
 </a>
+</div>
