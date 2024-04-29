@@ -1,10 +1,46 @@
 # Hello! 👋🏼
 
-- My name is hthcrwzy (aka Yamizo).  
-  IPA of hthcrwzy: [hæˈθkɹo̞ˌʊziː]
-- ⚡ Fun fact: My username was created at random.
-- 🌱 I like modern programming languages: Rust and Swift.
-- 🧐 I'm learning iOS app programming.
+I am hthcrwzy, a Japanese student.
+
+## My favorite mystery writers
+
+I like mystery novels. I mainly read Japanese mystery novels.
+
+### Japanese
+
+- 阿津川辰海 (Tatsumi Atsukawa)
+- 綾辻行人 (Yukito Ayatsuji)
+- 知念実希人 (Mikito Chinen)
+
+### British
+
+- Agatha Christie
+
+## Name
+
+- GitHub username: hthcrwzy
+  - It was created at random
+  - IPA: [hæˈθkɹo̞ˌʊziː]
+  - English: hathcurouzy
+- Aka: Yamizo
+  - IPA: [jämʲizo̜]
+  - English: Yamizo
+
+## Skills
+
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Swift/Swift.png?raw=true" alt="Swift" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Rust/Rust.png?raw=true" alt="Rust" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C++/C++.png?raw=true" alt="C++" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png?raw=true" alt="GitHub" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Vistual Studio Code" width="100" />
+
+> The cute logos are [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) by [Sawaratsuki](https://github.com/SAWARATSUKI).
+
+- I'm learning iOS app programming in Swift
+- I'm learning Rust
+- I join the contests at AtCoder in C++
+- My projects can be found on GitHub
+- I program with Xcode and Visual Studio Code.
 
 <details>
 <summary>Saluto en Esperanto</summary>
@@ -57,6 +93,8 @@ Mi ŝatas la romano de mistero. Mi precipe legas la japanan romanon de mistero.
 - Mi programas per Xcode kaj Visual Studio Code
 
 </details>
+
+## My GitHub Status
 
 <a href="https://github.com/tocoteron">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hthcrwzy&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" />
