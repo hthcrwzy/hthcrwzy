@@ -43,6 +43,55 @@ I like mystery novels. I mainly read Japanese mystery novels.
 - I program with Xcode and Visual Studio Code.
 
 <details>
+<summary>日本語での挨拶</summary>
+
+# こんにちは！
+
+hthcrwzyです！　学生です。
+
+## 好きな推理小説家
+
+推理小説が好きです。（あまり海外の推理小説は読みません）
+
+### 日本
+
+- 阿津川辰海
+- 綾辻行人
+- 知念実希人
+
+### イギリス
+
+- アガサ・クリスティ
+
+## 名前
+
+- GitHubのユーザー名: hthcrwzy
+  - Rubyを使ってランダムに生成したユーザー名のうち、最も気に入ったものをユーザー名にしました
+  - 国際発音記号では[hæˈθkɹo̞ˌʊziː]です
+  - 日本語ではハスクロウジーと読みます
+- 別名: Yamizo
+  - ローマ字です。ヤミゾと読みます
+
+## スキル
+
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Swift/Swift.png?raw=true" alt="Swift" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Rust/Rust.png?raw=true" alt="Rust" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C++/C++.png?raw=true" alt="C++" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png?raw=true" alt="GitHub" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Vistual Studio Code" width="100" />
+
+> 可愛いロゴたちは[Sawaratsuki](https://github.com/SAWARATSUKI)さんの[ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos)です
+
+- iOSアプリのプログラミングを学んでいます
+- Rustも学んでいます
+- C++でAtCoderのコンテストに（時々）参加しています
+- GitHubにプロジェクトが上がっています
+- XcodeとVisual Studio Codeでプログラムを書いています
+- Rubyは簡単になら使えます
+
+</details>
+
+<details>
 <summary>Saluto en Esperanto</summary>
 
 # Saluton!
