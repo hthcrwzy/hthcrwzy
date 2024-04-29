@@ -19,7 +19,14 @@ I like mystery novels. I mainly read Japanese mystery novels.
 ## Name
 
 - GitHub username: hthcrwzy
-  - It was created at random
+  - I randomly generated some strings with Ruby, then I set one of them I like the best as my username
+
+    ```ruby
+    10.times do
+      puts ('a'..'z').to_a.shuffle[0..7].join
+    end
+    ```
+
   - IPA: [hæˈθkɹo̞ˌʊziː]
   - English: hathcurouzy
 - Aka: Yamizo
@@ -68,7 +75,14 @@ hthcrwzyです！　学生です。
 ## 名前
 
 - GitHubのユーザー名: hthcrwzy
-  - Rubyを使ってランダムに生成したユーザー名のうち、最も気に入ったものをユーザー名にしました
+  - Rubyでランダムに生成した文字列のうち、最も気に入ったものをユーザー名にしました
+  
+    ```ruby
+    10.times do
+      puts ('a'..'z').to_a.shuffle[0..7].join
+    end
+    ```
+  
   - 国際発音記号では[hæˈθkɹo̞ˌʊziː]です
   - 日本語ではハスクロウジーと読みます
 - 別名: Yamizo
@@ -121,7 +135,14 @@ Mi ŝatas la romano de mistero. Mi precipe legas la japanan romanon de mistero.
 ## Nomoj
 
 - Salutnome ĉe GitHub: hthcrwzy
-  - Ĝi estis hazarde kreita
+  - Mi generis iom da signoĉenoj per Ruby kaj unu de ili estas uzita pri mia salutnome
+
+    ```ruby
+    10.times do
+      puts ('a'..'z').to_a.shuffle[0..7].join
+    end
+    ```
+  
   - IFA: [hæˈθkɹo̞ˌʊziː]
   - Esperanto: hasukrouzi
 - Alinome: Yamizo
