@@ -120,7 +120,7 @@ hthcrwzyです！　学生です。
 Mi estas hthcrwzy, kiu estas japana studento!  
 Mi estas komencanto en Esperanto!!!
 
-## Mia ŝatataj verkistinoj de romano de mistero
+## Mia ŝatataj verkistoj de romano de mistero
 
 Mi ŝatas la romano de mistero. Mi precipe legas la japanan romanon de mistero.
 
