@@ -7,7 +7,7 @@
 - 🧐 I'm learning iOS app programming.
 
 <details>
-<summary>Esperanto</summary>
+<summary>Saluto en Esperanto</summary>
 
 # Saluton!
 
@@ -50,9 +50,9 @@ Mi ŝatas la romano de mistero. Mi precipe legas la japanan romanon de mistero.
 
 > La ĉarmaj markemblemoj estas [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) de [Sawaratsuki](https://github.com/SAWARATSUKI).
 
-- Mi programas la aplikaĵo en iOS kun Swift
-- Mi lernas Rust
-- Mi aliĝas al la konkurso ĉe AtCoder kun C++
+- Mi lernas programi la aplikaĵon en iOS per Swift
+- Mi lernas Rust programlingvo
+- Mi aliĝas al la konkurso ĉe AtCoder per C++
 - Mia projektoj povas esti trovita sur GitHub
 - Mi programas per Xcode kaj Visual Studio Code
 
