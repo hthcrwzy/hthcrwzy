@@ -1,26 +1,66 @@
-### Hello! 👋🏼
-- My name is hthcrwzy (aka Yamizo).
+# Hello! 👋🏼
+
+- My name is hthcrwzy (aka Yamizo).  
   IPA of hthcrwzy: [hæˈθkɹo̞ˌʊziː]
 - ⚡ Fun fact: My username was created at random.
 - 🌱 I like modern programming languages: Rust and Swift.
 - 🧐 I'm learning iOS app programming.
 
-<!--
-**hthcrwzy/hthcrwzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>Esperanto</summary>
 
-Here are some ideas to get you started:
+# Saluton!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi estas hthcrwzy, kiu estas japana studento!  
 
+> [!NOTE]
+> Mi estas komencanto en Esperanto!!!
 
-[![hthcrwzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hthcrwzy&show_icons=true&theme=onedark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+## Mia ŝatataj verkistinoj de romano de mistero
 
-[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hthcrwzy&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Mi ŝatas la romano de mistero. Mi precipe legas la japanan romanon de mistero.
+
+### Japanaj
+
+- 阿津川辰海 (Tacumi Acukaŭa)
+- 綾辻行人 (Jukito Ajacuji)
+- 知念実希人 (Mikito Ĉinen)
+
+### Britaj
+
+- Agatha Christie
+
+## Nomoj
+
+- Salutnome ĉe GitHub: hthcrwzy
+  - Ĝi estis hazarde kreita
+  - IFA: [hæˈθkɹo̞ˌʊziː]
+  - Esperanto: hasukrouzi
+- Alinome: Yamizo
+  - IFA: [jämʲizo̜]
+  - Esperanto: Jamizo
+
+## Lertecoj
+
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Swift/Swift.png?raw=true" alt="Swift" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Rust/Rust.png?raw=true" alt="Rust" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C++/C++.png?raw=true" alt="C++" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png?raw=true" alt="GitHub" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Vistual Studio Code" width="100" />
+
+> La ĉarmaj markemblemoj estas [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) de [Sawaratsuki](https://github.com/SAWARATSUKI).
+
+- Mi programas la aplikaĵo en iOS kun Swift
+- Mi lernas Rust
+- Mi aliĝas al la konkurso ĉe AtCoder kun C++
+- Mia projektoj povas esti trovita sur GitHub
+- Mi programas per Xcode kaj Visual Studio Code
+
+</details>
+
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hthcrwzy&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hthcrwzy&theme=onedark&layout=compact" />
+</a>
