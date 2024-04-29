@@ -33,6 +33,7 @@ I like mystery novels. I mainly read Japanese mystery novels.
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C++/C++.png?raw=true" alt="C++" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png?raw=true" alt="GitHub" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Vistual Studio Code" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Ruby/Ruby.png?raw=true" alt="Ruby" width="100" />
 
 > The cute logos are [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) by [Sawaratsuki](https://github.com/SAWARATSUKI).
 
@@ -40,7 +41,8 @@ I like mystery novels. I mainly read Japanese mystery novels.
 - I'm learning Rust
 - I join the contests at AtCoder in C++
 - My projects can be found on GitHub
-- I program with Xcode and Visual Studio Code.
+- I program with Xcode and Visual Studio Code
+- I use Ruby to write simple scripts
 
 <details>
 <summary>日本語での挨拶</summary>
@@ -79,6 +81,7 @@ hthcrwzyです！　学生です。
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C++/C++.png?raw=true" alt="C++" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png?raw=true" alt="GitHub" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Vistual Studio Code" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Ruby/Ruby.png?raw=true" alt="Ruby" width="100" />
 
 > 可愛いロゴたちは[Sawaratsuki](https://github.com/SAWARATSUKI)さんの[ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos)です
 
@@ -87,7 +90,7 @@ hthcrwzyです！　学生です。
 - C++でAtCoderのコンテストに（時々）参加しています
 - GitHubにプロジェクトが上がっています
 - XcodeとVisual Studio Codeでプログラムを書いています
-- Rubyは簡単になら使えます
+- Rubyを簡単なスクリプトを書くのに使います
 
 </details>
 
@@ -132,6 +135,7 @@ Mi ŝatas la romano de mistero. Mi precipe legas la japanan romanon de mistero.
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C++/C++.png?raw=true" alt="C++" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png?raw=true" alt="GitHub" width="100" />
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Vistual Studio Code" width="100" />
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Ruby/Ruby.png?raw=true" alt="Ruby" width="100" />
 
 > La ĉarmaj markemblemoj estas [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) de [Sawaratsuki](https://github.com/SAWARATSUKI).
 
@@ -140,6 +144,7 @@ Mi ŝatas la romano de mistero. Mi precipe legas la japanan romanon de mistero.
 - Mi aliĝas al la konkurso ĉe AtCoder per C++
 - Mia projektoj povas esti trovita sur GitHub
 - Mi programas per Xcode kaj Visual Studio Code
+- Mi uzas Ruby por programi la simpla skripto
 
 </details>
 
