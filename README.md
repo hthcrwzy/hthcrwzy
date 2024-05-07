@@ -33,7 +33,7 @@ I am hthcrwzy, a Japanese student.
     end
     ```
 
-  - IPA: [hæˈθkɹo̞ˌʊziː]
+  - IPA: [hæθkɹo̞ʊziː]
   - English: hathcurouzy
 - Aka: Yamizo
   - IPA: [jämʲizo̜]
@@ -109,7 +109,7 @@ hthcrwzyです！　学生です。
     end
     ```
   
-  - 国際発音記号では[hæˈθkɹo̞ˌʊziː]です
+  - 国際発音記号では[hæθkɹo̞ʊziː]です
   - 日本語ではハスクロウジーと読みます
 - 別名: Yamizo
   - ローマ字です。ヤミゾと読みます
@@ -169,7 +169,7 @@ Mi estas komencanto en Esperanto!!!
     end
     ```
   
-  - IFA: [hæˈθkɹo̞ˌʊziː]
+  - IFA: [hæθkɹo̞ʊziː]
   - Esperanto: hasukrouzi
 - Alinome: Yamizo
   - IFA: [jämʲizo̜]
