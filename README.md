@@ -135,7 +135,7 @@ hthcrwzyです！　学生です。
 
 ### Saluton!
 
-Mi estas hthcrwzy, kiu estas japana studento!  
+Mi estas hthcrwzy, kiu estas studento en japanio!  
 Mi estas komencanto en Esperanto!!!
 
 #### Lertecoj
@@ -151,17 +151,17 @@ Mi estas komencanto en Esperanto!!!
 
 > La ĉarmaj markemblemoj estas [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) de [Sawaratsuki](https://github.com/SAWARATSUKI).
 
-- Mi lernas programi la aplikaĵon en iOS per Swift
-- Mi lernas Rust programlingvo
-- Mi aliĝas al la konkurso ĉe AtCoder per C++
+- Mi lernas programi aplikaĵojn en iOS per Swift
+- Mi lernas Rust programlingvon
+- Mi aliĝas al konkursoj ĉe AtCoder per C++
 - Mia projektoj povas esti trovita sur GitHub
 - Mi programas per Xcode kaj Visual Studio Code
-- Mi uzas Ruby por programi la simpla skripto
+- Mi uzas Ruby por programi simplajn skriptojn
 
 #### Nomoj
 
 - Salutnome de GitHub: hthcrwzy
-  - Mi generis iom da signoĉenoj per Ruby kaj unu de ili estas uzita pri mia salutnome
+  - Mi generis iom da signoĉenoj per Ruby kaj unu el ili estas uzita pri mia salutnome
 
     ```ruby
     10.times do
@@ -171,13 +171,13 @@ Mi estas komencanto en Esperanto!!!
   
   - IFA: [hæθkɹo̞ʊziː]
   - Esperanto: hasukrouzi
-- Alinome: Yamizo
+- Alinomo: Yamizo
   - IFA: [jämʲizo̜]
   - Esperanto: Jamizo
 
-#### Mia ŝatataj verkistoj de romano de mistero
+#### Miaj ŝatataj verkistoj de misteroj
 
-Mi ŝatas la romano de mistero. Mi precipe legas la japanan romanon de mistero.
+Mi tre ŝatas misterojn. Mi precipe legas japanajn misterojn.
 
 ##### Japanaj
 
